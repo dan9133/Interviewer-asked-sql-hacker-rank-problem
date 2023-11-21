@@ -1,1 +1,1 @@
-# Interviewer-asked-sql-hacker-rank-problem
+# Biz tech Analytic-Asked Sql-HackerRank-Problem
